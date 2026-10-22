@@ -3,23 +3,23 @@ entries:
   payments:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-10-22T20:36:34.4070006+05:30"
+    created: "2026-10-22T21:18:01.4415491+05:30"
     description: A Helm chart for Kubernetes
     digest: 744ff681543b1674b8346a51c25572624d00738bf4bcd28d2673ce7bb7863d7c
     name: payments
     type: application
     urls:
-    - payments-0.1.0.tgz
+    - https://hariaws1605.github.io/helm-repo/payments-0.1.0.tgz
     version: 0.1.0
   shipping:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-10-22T20:36:34.4075553+05:30"
+    created: "2026-10-22T21:18:01.4489837+05:30"
     description: A Helm chart for Kubernetes
     digest: 95d5afb44085f83424e302fa9d3c8952a7e1bf4adb9e50bf26b0600e2e4af85c
     name: shipping
     type: application
     urls:
-    - shipping-0.1.0.tgz
+    - https://hariaws1605.github.io/helm-repo/shipping-0.1.0.tgz
     version: 0.1.0
-generated: "2026-10-22T20:36:34.4058407+05:30"
+generated: "2026-10-22T21:18:01.433151+05:30"
