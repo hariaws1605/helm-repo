@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   payments:
   - apiVersion: v2
-    appVersion: 1.0.0
+    appVersion: 1.1.0
     created: "2026-10-25T12:19:25.0222445+05:30"
     description: A Helm chart for Kubernetes
     digest: ccc516783aea2cad82833311b3bbcd35c44fa398e633d626b437137b70a50eed
